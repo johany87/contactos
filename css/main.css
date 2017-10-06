@@ -1,0 +1,12 @@
+section{
+  background-image: url("img/background-img.jpg");
+}
+#tittle{
+  background-color: silver;
+  border-radius: 33px 33px 33px 33px;
+  text-align: center;
+}
+.form-group{
+  left: 40px;
+  width: 40%;
+}
